@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeya1561&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya1561" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikeya1561" alt="karthikeya1561" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthikeya1561&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I’m currently working on [Medical Assistant App](https://github.com/karthikeya1561/Medical_Assistant_App)
 
